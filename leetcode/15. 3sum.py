@@ -39,3 +39,14 @@ class Solution:
 # nums[i] = -nums[j] - nums[k]
 # [-4, -1, -1, 0, 1, 2]
 # O(N^2) + O(NlgN)
+
+"""
+2-sum algorithm:
+  1. hashmap O(N)
+  2. sort + 2-pointers O(N) + O(NlgN)
+
+3-sum 은 1, 2 둘 다 O(N^2) 이다.
+
+if - elif - else 
+
+"""
